@@ -87,6 +87,12 @@ npx expo start
 ```
 
 ---
+# App Screenshots
+<img width="632" height="1390" alt="ss2" src="https://github.com/user-attachments/assets/e5ee6e0a-49d1-4e3a-a03c-820cc19d02b3" />
+
+<img width="632" height="1390" alt="ss1" src="https://github.com/user-attachments/assets/86ef66d8-c7f2-4f31-965b-ae92db9ce3e5" />
+
+---
 
 # Assignment Highlights
 
