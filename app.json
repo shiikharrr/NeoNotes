@@ -1,0 +1,21 @@
+{
+  "expo": {
+    "name": "NeoNotes",
+    "slug": "NeoNotes",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "automatic",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {},
+    "web": {},
+    "plugins": [
+      "expo-font",
+      "expo-asset"
+    ]
+  }
+}
