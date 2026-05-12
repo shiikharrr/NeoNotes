@@ -1,50 +1,104 @@
 # NeoNotes
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+NeoNotes is a futuristic Notes App UI built using React Native and Expo.
 
-## Get started
+The project was created for the Mobile Development Cohort assignment and focuses on polished mobile UI, responsive layouts, dark/light themes, and realistic notes workflow functionality.
 
-1. Install dependencies
+---
 
-   ```bash
-   npm install
-   ```
+# Features
 
-2. Start the app
+- Create Notes
+- Edit Notes
+- Delete Notes
+- Search Notes
+- Dark / Light Mode
+- Responsive Layouts
+- Glassmorphism UI
+- Animated Neon Glow Background
+- Floating Action Button
+- Keyboard Avoidance Handling
+- Premium Futuristic Design
 
-   ```bash
-   npx expo start
-   ```
+---
 
-In the output, you'll find options to open the app in a
+# Tech Stack
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+- React Native
+- Expo SDK 54
+- JavaScript
+- React Hooks
+- Expo Vector Icons
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+---
 
-## Get a fresh project
+# React Native Components Used
 
-When you're ready, run:
+- FlatList
+- TextInput
+- Pressable
+- Switch
+- KeyboardAvoidingView
+- ImageBackground
+- ScrollView
+- Animated
+- StatusBar
+
+---
+
+# Hooks Used
+
+- useState
+- useEffect
+- useColorScheme
+- useWindowDimensions
+
+---
+
+# Project Structure
 
 ```bash
-npm run reset-project
+components/
+constants/
+screens/
+App.js
 ```
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+---
 
-## Learn more
+# Setup Instructions
 
-To learn more about developing your project with Expo, look at the following resources:
+## Clone Repository
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+```bash
+git clone YOUR_GITHUB_LINK
+```
 
-## Join the community
+## Install Dependencies
 
-Join our community of developers creating universal apps.
+```bash
+npm install
+```
 
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+## Start Expo
+
+```bash
+npx expo start
+```
+
+---
+
+# Assignment Highlights
+
+- Responsive mobile UI
+- Proper component structure
+- Clean styling using StyleSheet.create()
+- Dark/light theme handling
+- Realistic notes workflow
+- Production-style UI polish
+
+---
+
+# Author
+
+Shikhar Gupta
